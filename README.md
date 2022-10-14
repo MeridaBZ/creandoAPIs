@@ -1,2 +1,3 @@
-# creandoAPIs
-TP N°21 Creando nuestras propias APIs
+# TP N°19 Introducción, modelos y consultas básicas
+
+- BLANEZ, Mariana
